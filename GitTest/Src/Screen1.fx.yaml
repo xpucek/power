@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Text 2"
+        Text: ="Text 1"
         X: =588
         Y: =128
         ZIndex: =1
@@ -14,7 +14,7 @@ Screen1 As screen:
 
     Label2 As label:
         Text: ="Text 2"
-        X: =561
+        X: =588
         Y: =266
         ZIndex: =3
 
