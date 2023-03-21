@@ -491,14 +491,7 @@
       "ControlPropertyState": [
         "Live",
         "Overflow",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "\"Textevwvwvds weg \"",
-          "InvariantPropertyName": "Text",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "Text",
         "Role",
         "Color",
         "DisabledColor",
