@@ -13,7 +13,7 @@ Screen1 As screen:
         ZIndex: =2
 
     Label2 As label:
-        Text: ="Text 30"
+        Text: ="Text 60"
         X: =588
         Y: =316
         ZIndex: =3
