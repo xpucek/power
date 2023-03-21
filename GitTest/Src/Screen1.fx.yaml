@@ -13,7 +13,7 @@ Screen1 As screen:
         ZIndex: =2
 
     Label2 As label:
-        Text: ="Textevwvwvds weg "
+        Text: ="Text 2"
         X: =561
         Y: =266
         ZIndex: =3
