@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Text 20"
+        Text: ="Text 50"
         X: =588
         Y: =128
         ZIndex: =1
