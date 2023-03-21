@@ -49,7 +49,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button1",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -498,7 +498,14 @@
       "ControlPropertyState": [
         "Live",
         "Overflow",
-        "Text",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "\"Text 30\"",
+          "InvariantPropertyName": "Text",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Role",
         "Color",
         "DisabledColor",
@@ -546,7 +553,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label2",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
